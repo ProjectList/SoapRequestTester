@@ -1,0 +1,24 @@
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\bin\Debug\SoapTester.exe
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\bin\Debug\SoapTester.pdb
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\obj\Debug\SoapTester.csprojResolveAssemblyReference.cache
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\obj\Debug\SoapTester.Form1.resources
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\obj\Debug\SoapTester.Properties.Resources.resources
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\obj\Debug\SoapTester.csproj.GenerateResource.Cache
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\obj\Debug\SoapTester.exe
+d:\users\zdt\documents\visual studio 2013\Projects\SoapTester\SoapTester\obj\Debug\SoapTester.pdb
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\obj\Debug\SoapTester.exe
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\obj\Debug\SoapTester.pdb
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\bin\Debug\SoapTester.exe
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\bin\Debug\SoapTester.pdb
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\obj\Debug\SoapTester.csprojResolveAssemblyReference.cache
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\obj\Debug\SoapTester.Form1.resources
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\obj\Debug\SoapTester.Properties.Resources.resources
+D:\Projects\ClientSdkBefore\SoapTester\SoapTester\obj\Debug\SoapTester.csproj.GenerateResource.Cache
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\obj\Debug\SoapTester.exe
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\obj\Debug\SoapTester.pdb
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\bin\Debug\SoapTester.exe
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\obj\Debug\SoapTester.csprojResolveAssemblyReference.cache
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\obj\Debug\SoapTester.Form1.resources
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\obj\Debug\SoapTester.Properties.Resources.resources
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\obj\Debug\SoapTester.csproj.GenerateResource.Cache
+D:\Projects\ClientSdkProjects\SoapTester\SoapTester\bin\Debug\SoapTester.pdb
